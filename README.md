@@ -1,6 +1,5 @@
 # Hi there 👋
 <div align=center>
- <!-- <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Eunyoung%20Profile&fontSize=90" />-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=90&letterSpacing=center&pause=1000&width=950&height=200&lines=LET+THE+WORLD+KNOW+ME" alt="Typing SVG" /></a>
 </div>
 
@@ -85,16 +84,11 @@ Here are some ideas to get you started:
 ![Microsoft_Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat&logo=Microsoft_Teams&logoColor=white)
 ---
 <br/><br/><br/><br/>
-<div>
-<div align=left>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyoung-Oh&layout=compact)](https://github.com/Nyoung-Oh/github-readme-stats)
-</div>
-<div align=right>
-<p>🏆 Baekjoon Solved Rank 🏆</p>
+## 🔭 I’m currently working on ...
+<div align=center>
 	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyoung-Oh&layout=compact)](https://github.com/Nyoung-Oh/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nyoungoh)](https://solved.ac/nyoungoh)
-
-</div>
-</div>
 ---
+</div>
+<br/><br/><br/><br/>
