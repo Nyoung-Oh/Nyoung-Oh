@@ -92,3 +92,24 @@ Here are some ideas to get you started:
 ---
 </div>
 <br/><br/><br/><br/>
+
+## ⚡ Project List
+|구분|제목|인원|설명|
+|:---:|:---:|:---:|:---:|
+|웹|[KOM Finance](https://github.com/KomFinance)|3인|Java, DB Link를 통한 은행, 카드, 증권 통합 서비스|
+|인공지능|[수어 탐지](https://github.com/HandSignDetect.)|개인|Yolo, MediaPipe, LSTM 모델 활용한 수어 탐지|
+|리액트 웹|[클래스형 전기차 충전소 위치](https://github.com/react-basic)|개인|Node.js, React, Docker를 활용한 서비스 개발 및 배포|
+|웹|[도서 관리](https://github.com/Library)|개인|Spring Boot를 이용한 도서 관리 서비스|
+|자바|MyEmail|개인|Java, OracleDB를 이용한 이메일 콘솔 구현|
+|인공지능|Barrier-Free Kiosk(진행 중)|개인|LSTM, STT, NLP 모델을 활용한 손동작 인식과 음서 처리가 가능한 키오스크|
+
+
+<br/><br/><br/><br/>
+<hr>
+<br/>
+
+# Project
+## KOM Finance
+
+
+
