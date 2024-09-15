@@ -110,6 +110,49 @@ Here are some ideas to get you started:
 
 # Project
 ## KOM Finance
+Java, DBLink를 통한 은행, 카드, 증권 통합 서비스 사이트
+<br/>
+### 소개
+로그인 이용자는 은행, 카드, 증권 사이트의 서비스를 이용할 수 있음
+각 사이트의 거래 내역 공유
+<br/>
+### 개발 기간
+2024. 06. 18 ~ 2024. 07. 15
+<br/>
+### 인원 구성 (총 3인)
+ - 팀장  : 오은영 - 은행 사이트 개발, 통합 홈페이지 구축, 발표
+ - 팀원1 : 김성수 - 증권 사이트 개발
+ - 팀원2 : 문예찬 - 카드 사이트 개발
+<br/>
+### 사용 언어 및 개발 환경
+`Java` `Servlet` `JSP` `JavaScript` `Tomcat` `OracleDB` `MyBatis` `Eclipse` `HTML` `CSS` 
+<br/>
+### 주요기능
 
+#### 계좌 개설
 
+#### 계좌 이체
 
+#### 계좌 별 거래 내역, 잔액 조회
+
+#### 회원가입
+
+#### 로그인
+<br/><br/><br/>
+
+## 수어 탐지(개인 프로젝트)
+Yolo, MediaPipe, LSTM 모델을 활용한 수어 탐지
+<br/>
+### 소개
+- 딥러닝 기술 이용 (LSTM, Yolo, MediaPipe)
+- 웹캠 영상에서 객체 인식 및 수어 인식 구현
+<br/>
+### 개발 기간
+2024. 07. 15 ~ 2024. 07. 26
+<br/>
+### 사용 언어 및 개발 환경
+`Spring Boot` `JavaScript` `Python` `JSON` `Eclipse` `PyCharm` `REST Server` `Yolo` `Anaconda` `Jupyter Notebook` `MediaPipe` `Pandas` `KNN` `Numpy` `Tensorflow` `Keras` `Flask`
+<br/>
+### 주요 기능
+#### 실시간 웹캠 영상 인식
+#### 수어 인식 후 해당 알파벳 및 정확도 표시
