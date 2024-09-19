@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 > 
 > **제가 만든 서비스가 사회가 긍정적인 영향을 끼치는 것이 목표입니다.**
 ---
+## <a href="https://github.com/user-attachments/files/17052449/default.pdf"> 이력서 및 자기소개서 </a>
+## <a href="https://github.com/user-attachments/files/17052555/-.pdf"> 포트폴리오 </a>
 <br/>
 <br/>
 <br/>
