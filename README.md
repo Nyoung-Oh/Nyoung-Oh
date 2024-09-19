@@ -163,7 +163,7 @@
 <br/><br/>
 <hr>
 
-## 클래스형 전기차 충전소 위치 검색이 가능한 React 웹 서비스 개발 및 클라우드 배포 (개인) - [레파지토리 바로가기]()
+## 클래스형 전기차 충전소 위치 검색이 가능한 React 웹 서비스 개발 및 클라우드 배포 (개인) - [레파지토리 바로가기](https://github.com/Nyoung-Oh/react-basic)
 <img src="https://github.com/user-attachments/assets/614b3481-d921-479f-94a4-bc3809866955"  width="800" height="450">
 
 ### 🔎 소개 및 목적
@@ -173,13 +173,13 @@
 2024.05.14 ~ 2024.05.31
 ### 🔎 사용 언어 및 개발 환경
 `Node.js` `React` `Docker` `VSCode` `Python` `OPEN API`
-### 🔎 주요 기능 - [레파지토리 바로가기]()
+### 🔎 주요 기능 - [레파지토리 바로가기](https://github.com/Nyoung-Oh/react-basic)
  - **전기차 충전소 검색, 지도 위에 충전소 위치 표시**
 
 <br/><br/>
 <hr>
 
-## Spring Boot를 이용한 도서 관리 서비스 (개인) - [레파지토리 바로가기]()
+## Spring Boot를 이용한 도서 관리 서비스 (개인) - [레파지토리 바로가기](https://github.com/Nyoung-Oh/Library)
 <img src="https://github.com/user-attachments/assets/4c1cfbae-7777-4cb8-a94f-34f28dd6ff53"  width="500" height="300">
 
 ### 🔎 소개 및 목적
@@ -188,7 +188,7 @@
 2024.06.21 ~ 2024.06.28
 ### 🔎 사용 언어 및 개발 환경
 `Spring Boot` `Servlet` `Thyemeleaf` `Eclipse` `Dbeaver`
-### 🔎 주요 기능 - [레파지토리 바로가기]()
+### 🔎 주요 기능 - [레파지토리 바로가기](https://github.com/Nyoung-Oh/Library)
  - **도서 관리**
  - **로그인**
 
