@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## ⚡ Project List
 |구분|제목|인원|사용기술|
 |:---:|:---:|:---:|:---:|
-|웹|[은행 서비스](https://github.com/Nyoung-Oh#java%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%80%ED%96%89-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EC%9D%B8)|개인|`Java` `JavaScriprt` `Oracle` `Eclipse` `MyBatis` `JSP`|
+|웹|[은행 서비스](https://github.com/Nyoung-Oh#java%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%80%ED%96%89-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EC%9D%B8---%EB%A0%88%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0)|개인|`Java` `JavaScriprt` `Oracle` `Eclipse` `MyBatis` `JSP`|
 |웹|[은행, 카드, 증권 통합 서비스](https://github.com/KomFinance)|3인|`DBLink` `Redis`|
 |인공지능|[수어 탐지](https://github.com/HandSignDetect.)|개인|`Yolo` `MediaPipe` `LSTM` `KNN` `Flask` `Spring Boot`|
 |리액트 웹|[클래스형 전기차 충전소 위치 검색](https://github.com/react-basic)|개인|`Node.js` `React` `Docker` `OpenAPI`|
