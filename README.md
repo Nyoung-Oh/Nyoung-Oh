@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ## ⚡ Project List
 |구분|제목|인원|사용기술|
 |:---:|:---:|:---:|:---:|
-|웹|은행 웹|개인|`Java` `JavaScriprt` `Oracle` `Eclipse` `MyBatis` `JSP`|
-|웹|[은행, 카드, 증권 통합 웹](https://github.com/KomFinance)|3인|`DBLink` `Redis`|
-|인공지능|[수어 탐지 웹](https://github.com/HandSignDetect.)|개인|`Yolo` `MediaPipe` `LSTM` `KNN` `Flask` `Spring Boot`|
-|리액트 웹|[클래스형 전기차 충전소 위치 검색 웹](https://github.com/react-basic)|개인|`Node.js` `React` `Docker` `OpenAPI`|
-|웹|[도서 관리 웹](https://github.com/Library)|개인|`Spring Boot`|
+|웹|[은행 서비스](https://github.com/Nyoung-Oh#java%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%80%ED%96%89-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EC%9D%B8)|개인|`Java` `JavaScriprt` `Oracle` `Eclipse` `MyBatis` `JSP`|
+|웹|[은행, 카드, 증권 통합 서비스](https://github.com/KomFinance)|3인|`DBLink` `Redis`|
+|인공지능|[수어 탐지](https://github.com/HandSignDetect.)|개인|`Yolo` `MediaPipe` `LSTM` `KNN` `Flask` `Spring Boot`|
+|리액트 웹|[클래스형 전기차 충전소 위치 검색](https://github.com/react-basic)|개인|`Node.js` `React` `Docker` `OpenAPI`|
+|웹|[도서 관리](https://github.com/Library)|개인|`Spring Boot`|
 |자바|이메일 서비스 콘솔 구현|개인|`Java` `OracleDB`|
 |인공지능|손동작 인식과 음성 처리 Barrier-Free Kiosk (진행 중)|개인|`LSTM` `STT` `NLP`|
 <br/>
@@ -97,10 +97,13 @@ Here are some ideas to get you started:
 </div>
 <br/><br/>
 <hr>
-<br/>
 
 # ⚡ Project ⚡
-## Java를 이용한 은행 웹 서비스 (개인)
+<br/><br/><br/><br/>
+
+<hr>
+
+## Java를 이용한 은행 웹 서비스 (개인) - [레파지토리 바로가기](https://github.com/Nyoung-Oh/Banking)
 
 <img src="https://github.com/user-attachments/assets/1608ca78-5ab7-4081-ba02-0beb2372d911"  width="1000" height="450">
 
@@ -117,80 +120,42 @@ Here are some ideas to get you started:
 ### 🔎 프로그램 구조 MVC 패턴
 <img src="https://github.com/user-attachments/assets/3b24e2ad-9c5f-4793-9392-57ab91af16bc"  width="1000" height="500">
 
-### 🔎 주요기능
-#### 계좌 개설
- - 예금, 적금, 주식 중 계좌 종류 선택
- - 자동 계좌 번호 생성(000000-00-000000)
- - 비밀번호 더블 확인
-<img src="https://github.com/user-attachments/assets/9968936f-e003-4836-a028-8c9966365407"  width="1000" height="500">
-
-#### 계좌 이체
- - 로그인 사용자의 계좌 선택 후
- - 출금 계좌 잔액 내에서 이체 가능
- - 비밀번호 일치하지 않으면 이체 불가능
-<img src="https://github.com/user-attachments/assets/2d70e4d8-6b9a-40e7-b7e2-5aec4709fbb7"  width="1000" height="500">
-
-#### 계좌 별 거래 내역, 잔액 조회
- - 로그인 사용자의 계좌 선택 후
- - 현재 잔액 조회 가능
- - 상대 계좌 번호, 거래 금액, 잔액, 거래 종류, 거래 날짜 조회 가능
- - 1 페이지 당 10개 내역 조회 가능
-<img src="https://github.com/user-attachments/assets/0d88b762-85a8-412d-93a4-3f385bce64f8"  width="1000" height="500">
-
-#### 회원가입
- - 통합 페이지 혹은 각 사이트에서 회원가입 가능
-#### 로그인
- - 통합 페이지 혹은 각 사이트에서 로그인 가능
- - 사이트 간 로그인 유지
-<img src="https://github.com/user-attachments/assets/cf271fb6-b969-4573-aa98-84b4d3b461c1"  width="1000" height="500">
+### 🔎 주요기능 - [레파지토리 바로가기](https://github.com/Nyoung-Oh/Banking)
+ - **계좌 개설**
+ - **계좌 이체**
+ - **계좌 별 잔액, 거래 내역 조회**
+ - **회원가입**
+ - **로그인**
 
 <br/><br/>
+<hr>
 
-## Java, DBLink를 통한 은행, 카드, 증권 통합 서비스 사이트
-
+## Java, DBLink를 통한 은행, 카드, 증권 통합 서비스 - [레파지토리 바로가기]()
 <img src="https://github.com/user-attachments/assets/e065c6b0-e204-4f01-be22-4c83bb00d017"  width="1000" height="450">
 
-### 소개
+### 🔎 소개 및 목적
+ - 개인 프로젝트에서 확장된 서비스 구현
+ - DBLink와 Redis 사용
  - 로그인 이용자는 은행, 카드, 증권 사이트의 서비스를 연동해서 이용할 수 있음
  - 각 사이트의 거래 내역 공유
-### 개발 기간
+### 🔎 개발 기간
 2024.07.10 ~ 2024.07.15
-### 인원 구성 (총 3인)
+### 🔎 인원 구성 (총 3인)
  - 팀장  : 오은영 - 통합 홈페이지 구축, 발표
  - 팀원1 : 김성수 - 사이트 통합, 발표 동영상 제작
  - 팀원2 : 문예찬 - 테이블 설계, 발표 PPT 제작
-### 사용 언어 및 개발 환경
-`DBLink` `Redis`
-### 요구사항 명세서 
-### 주요기능
-#### 계좌 개설
- - 예금, 적금, 주식 중 계좌 종류 선택
- - 자동 계좌 번호 생성(000000-00-000000)
- - 비밀번호 더블 확인
-<img src="https://github.com/user-attachments/assets/9968936f-e003-4836-a028-8c9966365407"  width="1000" height="500">
+### 🔎 사용 언어 및 개발 환경
+`DBLink` `Redis` `Java` `Servlet` `JSP` `JavaScript` `Tomcat` `OracleDB` `MyBatis` `Eclipse` `HTML` `CSS`
+### 🔎 공유 테이블 설계
+<img src="https://github.com/user-attachments/assets/178d4b1f-60ed-4c0a-aa5b-7176640ad7a4"  width="700" height="300">
 
-#### 계좌 이체
- - 로그인 사용자의 계좌 선택 후
- - 출금 계좌 잔액 내에서 이체 가능
- - 비밀번호 일치하지 않으면 이체 불가능
-<img src="https://github.com/user-attachments/assets/2d70e4d8-6b9a-40e7-b7e2-5aec4709fbb7"  width="1000" height="500">
-
-#### 계좌 별 거래 내역, 잔액 조회
- - 로그인 사용자의 계좌 선택 후
- - 현재 잔액 조회 가능
- - 상대 계좌 번호, 거래 금액, 잔액, 거래 종류, 거래 날짜 조회 가능
- - 1 페이지 당 10개 내역 조회 가능
-<img src="https://github.com/user-attachments/assets/0d88b762-85a8-412d-93a4-3f385bce64f8"  width="1000" height="500">
-
-#### 회원가입
- - 통합 페이지 혹은 각 사이트에서 회원가입 가능
-#### 로그인
- - 통합 페이지 혹은 각 사이트에서 로그인 가능
- - 사이트 간 로그인 유지
-<img src="https://github.com/user-attachments/assets/cf271fb6-b969-4573-aa98-84b4d3b461c1"  width="1000" height="500">
+### 🔎 주요기능 - [레파지토리 바로가기]()
+ - **은행, 카드, 증권 사이트 서비스 연동**
+ - **각 사이트의 거래 내역 공유**
+ - **통합 회원가입**
 
 <br/><br/>
-
+<hr>
 
 ## 수어 탐지(개인 프로젝트)
 **Yolo, MediaPipe, LSTM 모델을 활용한 수어 탐지**
