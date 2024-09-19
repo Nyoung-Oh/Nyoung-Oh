@@ -190,7 +190,6 @@
 `Spring Boot` `Servlet` `Thyemeleaf` `Eclipse` `Dbeaver`
 ### 🔎 주요 기능 - [레파지토리 바로가기](https://github.com/Nyoung-Oh/Library)
  - **도서 관리**
- - **로그인**
 
 <br/><br/>
 <hr>
