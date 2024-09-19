@@ -112,6 +112,7 @@ Here are some ideas to get you started:
 ## KOM Finance
 **Java, DBLink를 통한 은행, 카드, 증권 통합 서비스 사이트**
 <br/><br/>
+<img src="https://github.com/user-attachments/assets/e065c6b0-e204-4f01-be22-4c83bb00d017"  width="1000" height="450">
 ### 소개
  - 로그인 이용자는 은행, 카드, 증권 사이트의 서비스를 이용할 수 있음
  - 각 사이트의 거래 내역 공유
@@ -132,24 +133,35 @@ Here are some ideas to get you started:
  - 예금, 적금, 주식 중 계좌 종류 선택
  - 자동 계좌 번호 생성(000000-00-000000)
  - 비밀번호 더블 확인
+<img src="https://github.com/user-attachments/assets/9968936f-e003-4836-a028-8c9966365407"  width="1000" height="500">
+
 #### 계좌 이체
  - 로그인 사용자의 계좌 선택 후
  - 출금 계좌 잔액 내에서 이체 가능
  - 비밀번호 일치하지 않으면 이체 불가능
+<img src="https://github.com/user-attachments/assets/2d70e4d8-6b9a-40e7-b7e2-5aec4709fbb7"  width="1000" height="500">
+ 
 #### 계좌 별 거래 내역, 잔액 조회
  - 로그인 사용자의 계좌 선택 후
  - 현재 잔액 조회 가능
  - 상대 계좌 번호, 거래 금액, 잔액, 거래 종류, 거래 날짜 조회 가능
- - 10개 당 1 페이지
+ - 1 페이지 당 10개 내역 조회 가능
+<img src="https://github.com/user-attachments/assets/0d88b762-85a8-412d-93a4-3f385bce64f8"  width="1000" height="500">
+
 #### 회원가입
  - 통합 페이지 혹은 각 사이트에서 회원가입 가능
 #### 로그인
  - 통합 페이지 혹은 각 사이트에서 로그인 가능
  - 사이트 간 로그인 유지
+<img src="https://github.com/user-attachments/assets/cf271fb6-b969-4573-aa98-84b4d3b461c1"  width="1000" height="500">
+
 <br/><br/><br/>
 
 ## 수어 탐지(개인 프로젝트)
 **Yolo, MediaPipe, LSTM 모델을 활용한 수어 탐지**
+<br/><br/>
+<img src="https://github.com/user-attachments/assets/ba3c42a8-c430-46db-bec6-2a348fde3e06"  width="450" height="400">
+<img src="https://github.com/user-attachments/assets/d8f96ac2-34e4-4d66-997c-6c5dbcb4b519"  width="450" height="400">
 <br/><br/>
 ### 소개
 - 딥러닝 기술 이용 (LSTM, Yolo, MediaPipe)
@@ -159,19 +171,20 @@ Here are some ideas to get you started:
 2024. 07. 15 ~ 2024. 07. 26
 <br/><br/>
 ### 사용 언어 및 개발 환경
-`Spring Boot` `JavaScript` `Python` `JSON` `Eclipse` `PyCharm` `REST Server` `Yolo` `Anaconda` `Jupyter Notebook` `MediaPipe` `Pandas` `KNN` `Numpy` `Tensorflow` `Keras` `Flask`
+`Spring Boot` `JavaScript` `Python` `JSON` `Eclipse` `PyCharm` `VSCode` `REST Server` `Yolo` `Anaconda` `Jupyter Notebook` `MediaPipe` `Pandas` `KNN` `Numpy` `Tensorflow` `Keras` `Flask`
 <br/><br/>
 ### 주요 기능
 #### 실시간 웹캠 영상 인식
- - MediaPipe, 손 관절 마다 랜드마크 표시, 특정 좌표를 기준으로 손동작 인식
- - LSTM 모델 이용 알파벳 수화 학습
- -
+ - MediaPipe 이용 손 관절 랜드마크 표시, 특정 좌표를 기준으로 손동작 인식
+ - LSTM 모델 이용 수화 학습
 #### 수어 인식 후 해당 알파벳 및 정확도 표시
- - KNN 모델
+ - KNN 알고리즘 활용
 <br/><br/><br/>
 ## 클래스형 전기차 충전소 위치 (개인 프로젝트)
 **Node.js, React, Docker를 활용한 서비스 개발 및 배포**
 <br/><br/>
+<img src="https://github.com/user-attachments/assets/2d905250-f32e-4547-bf09-fce50cc9e649"  width="800" height="300">
+<img src="https://github.com/user-attachments/assets/614b3481-d921-479f-94a4-bc3809866955"  width="800" height="450">
 ### 소개
  - 충전소 위치 검색 서비스
  - Node.js 기반의 React 앱 클라우드 배포
@@ -183,16 +196,14 @@ Here are some ideas to get you started:
 `Node.js` `React` `Docker` `VSCode` `Python` `OPEN API`
 <br/><br/>
 ### 주요 기능
-#### 전기차 충전소 검색
- - 공공데이터포털 한국전력공사 전기차 충전소 데이터 활용
- - 
-#### 지도 위에 충전소 위치 표시
- - 카카오맵 지도 API 활용
- - JSON 형태로
- -
+#### 전기차 충전소 검색, 지도 위에 충전소 위치 표시, 지도 위에 충전소 위치 표시
+ - 공공데이터포털 한국전력공사 전기차 충전소 데이터, 카카오맵 지도 API 활용
 <br/><br/><br/>
 ## 도서 관리 (개인 프로젝트)
 **Spring Boot를 이용한 서비스 개발**
+<br/><br/>
+<img src="https://github.com/user-attachments/assets/9ce795a7-b516-4e51-b698-9a5aa0e37738"  width="500" height="450">
+<img src="https://github.com/user-attachments/assets/39c64533-d772-4ca0-ada5-6483686d8558"  width="300" height="450">
 <br/><br/>
 ### 소개
  - Spring Boot를 이용한 도서 관리 서비스
@@ -209,6 +220,9 @@ Here are some ideas to get you started:
 <br/><br/><br/>
 ## MyEmail (개인 프로젝트)
 **Java, OracleDB를 이용한 이메일 콘솔 구현**
+<br/><br/>
+<img src="https://github.com/user-attachments/assets/c802960a-4137-480b-9d9c-d5d3d5723f5b"  width="400" height="300">
+<img src="https://github.com/user-attachments/assets/dd43e11e-0f58-44ff-91e0-4cd59ab40bfb"  width="400" height="300">
 <br/><br/>
 ### 소개
  - 핵심 기능만 가진 이메일 서비스
