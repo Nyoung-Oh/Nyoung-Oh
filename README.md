@@ -115,7 +115,7 @@
 <br/><br/>
 <hr>
 
-## Java, DBLink를 통한 은행, 카드, 증권 통합 서비스 - [레파지토리 바로가기]()
+## Java, DBLink를 통한 은행, 카드, 증권 통합 서비스 - [레파지토리 바로가기](https://github.com/Nyoung-Oh/KomFinance)
 <img src="https://github.com/user-attachments/assets/e065c6b0-e204-4f01-be22-4c83bb00d017"  width="1000" height="450">
 
 ### 🔎 소개 및 목적
@@ -134,7 +134,7 @@
 ### 🔎 공유 테이블 설계
 <img src="https://github.com/user-attachments/assets/178d4b1f-60ed-4c0a-aa5b-7176640ad7a4"  width="700" height="300">
 
-### 🔎 주요기능 - [레파지토리 바로가기]()
+### 🔎 주요기능 - [레파지토리 바로가기](https://github.com/Nyoung-Oh/KomFinance)
  - **은행, 카드, 증권 사이트 서비스 연동**
  - **각 사이트의 거래 내역 공유**
  - **통합 회원가입**
