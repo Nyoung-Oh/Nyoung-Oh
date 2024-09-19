@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 |구분|제목|인원|사용기술|
 |:---:|:---:|:---:|:---:|
 |웹|[은행 서비스](https://github.com/Nyoung-Oh#java%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%80%ED%96%89-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EC%9D%B8---%EB%A0%88%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0)|개인|`Java` `JavaScriprt` `Oracle` `Eclipse` `MyBatis` `JSP`|
-|웹|[은행, 카드, 증권 통합 서비스](https://github.com/KomFinance)|3인|`DBLink` `Redis`|
+|웹|[은행, 카드, 증권 통합 서비스](https://github.com/Nyoung-Oh#java-dblink%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%9D%80%ED%96%89-%EC%B9%B4%EB%93%9C-%EC%A6%9D%EA%B6%8C-%ED%86%B5%ED%95%A9-%EC%84%9C%EB%B9%84%EC%8A%A4---%EB%A0%88%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0)|3인|`DBLink` `Redis`|
 |인공지능|[수어 탐지](https://github.com/HandSignDetect.)|개인|`Yolo` `MediaPipe` `LSTM` `KNN` `Flask` `Spring Boot`|
 |리액트 웹|[클래스형 전기차 충전소 위치 검색](https://github.com/react-basic)|개인|`Node.js` `React` `Docker` `OpenAPI`|
 |웹|[도서 관리](https://github.com/Library)|개인|`Spring Boot`|
@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-6DB33F?style=flat&logo=&logoColor=white)
 ![Servlet](https://img.shields.io/badge/Servlet-6DB33F?style=flat&logo=&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
@@ -99,7 +100,7 @@ Here are some ideas to get you started:
 <hr>
 
 # ⚡ Project ⚡
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 <hr>
 
@@ -157,99 +158,80 @@ Here are some ideas to get you started:
 <br/><br/>
 <hr>
 
-## 수어 탐지(개인 프로젝트)
-**Yolo, MediaPipe, LSTM 모델을 활용한 수어 탐지**
-<br/><br/>
+## Yolo, MediaPipe, LSTM 모델을 활용한 수어 탐지 웹 서비스 (개인) - [레파지토리 바로가기]()
 <img src="https://github.com/user-attachments/assets/ba3c42a8-c430-46db-bec6-2a348fde3e06"  width="400" height="400">
 <img src="https://github.com/user-attachments/assets/d8f96ac2-34e4-4d66-997c-6c5dbcb4b519"  width="400" height="400">
-<br/><br/>
-### 소개
-- 딥러닝 기술 이용 (LSTM, Yolo, MediaPipe)
-- 웹캠 영상에서 객체 인식 및 수어 인식 구현
-<br/><br/>
-### 개발 기간
-2024. 07. 15 ~ 2024. 07. 26
-<br/><br/>
-### 사용 언어 및 개발 환경
-`Spring Boot` `JavaScript` `Python` `JSON` `Eclipse` `PyCharm` `VSCode` `REST Server` `Yolo` `Anaconda` `Jupyter Notebook` `MediaPipe` `Pandas` `KNN` `Numpy` `Tensorflow` `Keras` `Flask`
-<br/><br/>
-### 주요 기능
-#### 실시간 웹캠 영상 인식
- - MediaPipe 이용 손 관절 랜드마크 표시, 특정 좌표를 기준으로 손동작 인식
- - LSTM 모델 이용 수화 학습
-#### 수어 인식 후 해당 알파벳 및 정확도 표시
- - KNN 알고리즘 활용
-<br/><br/><br/>
-## 클래스형 전기차 충전소 위치 (개인 프로젝트)
-**Node.js, React, Docker를 활용한 서비스 개발 및 배포**
-<br/><br/>
-<img src="https://github.com/user-attachments/assets/2d905250-f32e-4547-bf09-fce50cc9e649"  width="800" height="300">
-<img src="https://github.com/user-attachments/assets/614b3481-d921-479f-94a4-bc3809866955"  width="800" height="450">
-### 소개
- - 충전소 위치 검색 서비스
- - Node.js 기반의 React 앱 클라우드 배포
-<br/><br/>
-### 개발 기간
-2024. 05. 14 ~ 2024. 05. 31
-<br/><br/>
-### 사용 언어 및 개발 환경
-`Node.js` `React` `Docker` `VSCode` `Python` `OPEN API`
-<br/><br/>
-### 주요 기능
-#### 전기차 충전소 검색, 지도 위에 충전소 위치 표시, 지도 위에 충전소 위치 표시
- - 공공데이터포털 한국전력공사 전기차 충전소 데이터, 카카오맵 지도 API 활용
-<br/><br/><br/>
-## 도서 관리 (개인 프로젝트)
-**Spring Boot를 이용한 서비스 개발**
-<br/><br/>
-<img src="https://github.com/user-attachments/assets/9ce795a7-b516-4e51-b698-9a5aa0e37738"  width="500" height="450">
-<img src="https://github.com/user-attachments/assets/39c64533-d772-4ca0-ada5-6483686d8558"  width="300" height="450">
-<br/><br/>
-### 소개
- - Spring Boot를 이용한 도서 관리 서비스
-### 개발 기간
-2024. 06. 21 ~ 2024. 06. 28
-<br/><br/>
-### 사용 언어 및 개발 환경
-`Spring Boot` `Servlet` `Eclipse` `Dbeaver`
-<br/><br/>
-### 주요 기능
-#### 도서 관리 : 추가, 수정, 1권 조회, 전체 조회
 
-#### 사용자 관리 : 회원가입, 로그인
-<br/><br/><br/>
-## MyEmail (개인 프로젝트)
-**Java, OracleDB를 이용한 이메일 콘솔 구현**
+### 🔎 소개 및 목적
+- 딥러닝 기술 이용 (LSTM, KNN, Yolo, MediaPipe)
+- 웹캠 영상에서 객체 인식 및 수어 인식 구현
+### 🔎 개발 기간
+2024.07.15 ~ 2024.07.26
+### 🔎 사용 언어 및 개발 환경
+`Spring Boot` `JavaScript` `Python` `JSON` `Thyemeleaf` `Servlet``Eclipse` `PyCharm` `VSCode` `REST Server` `Yolo` `Anaconda` `Jupyter Notebook` `MediaPipe` `Pandas` `KNN` `Numpy` `Tensorflow` `Keras` `Flask`
+### 🔎 구조
+<img src="https://github.com/user-attachments/assets/d4585cf5-5a25-4d21-820e-92d2f16f611d"  width="800" height="300">
+
+### 🔎 주요 기능 - [레파지토리 바로가기]()
+ - **실시간 웹캠 영상 인식**
+ - **수어 탐지 알파벳 및 정확도 표시**
+
 <br/><br/>
-<img src="https://github.com/user-attachments/assets/c802960a-4137-480b-9d9c-d5d3d5723f5b"  width="400" height="300">
-<img src="https://github.com/user-attachments/assets/dd43e11e-0f58-44ff-91e0-4cd59ab40bfb"  width="400" height="300">
+<hr>
+
+## 클래스형 전기차 충전소 위치 검색이 가능한 React 웹 서비스 개발 및 클라우드 배포 (개인) - [레파지토리 바로가기]()
+<img src="https://github.com/user-attachments/assets/614b3481-d921-479f-94a4-bc3809866955"  width="800" height="450">
+
+### 🔎 소개 및 목적
+ - Node.js 기반의 React 앱 클라우드 배포
+ - OpenAPI를 활용한 전기차 충전소 위치 검색 서비스 구현
+### 🔎 개발 기간
+2024.05.14 ~ 2024.05.31
+### 🔎 사용 언어 및 개발 환경
+`Node.js` `React` `Docker` `VSCode` `Python` `OPEN API`
+### 🔎 주요 기능 - [레파지토리 바로가기]()
+ - **전기차 충전소 검색, 지도 위에 충전소 위치 표시**
+
 <br/><br/>
-### 소개
- - 핵심 기능만 가진 이메일 서비스
- - 이용이 어려운 사람들은 직관적으로 기능을 익힐 수 있음
+<hr>
+
+## Spring Boot를 이용한 도서 관리 서비스 (개인) - [레파지토리 바로가기]()
+<img src="https://github.com/user-attachments/assets/4c1cfbae-7777-4cb8-a94f-34f28dd6ff53"  width="500" height="300">
+
+### 🔎 소개 및 목적
+ - Spring Boot를 활용한 미니 프로젝트
+### 🔎 개발 기간
+2024.06.21 ~ 2024.06.28
+### 🔎 사용 언어 및 개발 환경
+`Spring Boot` `Servlet` `Thyemeleaf` `Eclipse` `Dbeaver`
+### 🔎 주요 기능 - [레파지토리 바로가기]()
+ - **도서 관리**
+ - **로그인**
+
 <br/><br/>
-### 개발 기간
-2024. 04. 18 ~ 2024. 04. 25
-<br/><br/>
-### 사용 언어 및 개발 환경
+<hr>
+
+## Java, OracleDB를 이용한 이메일 콘솔 구현 (개인) - [레파지토리 바로가기]()
+### 🔎 소개 및 목적
+ - Java와 DB를 이용한 미니 프로젝트
+### 🔎 개발 기간
+2024.04.18 ~ 2024.04.25
+### 🔎 사용 언어 및 개발 환경
 `Java` `Eclipse` `OracleDB`
+### 🔎 주요 기능 - [레파지토리 바로가기]()
+- **이메일 : 전송, 조회, 받은/보낸 메일함, 삭제**
+- **사용자 관리 : 회원가입, 로그인, 로그아웃, 회원 탈퇴**
+
 <br/><br/>
-### 주요 기능
-#### 이메일 : 전송, 조회, 받은/보낸 메일함, 삭제
-#### 사용자 관리 : 회원가입, 로그인, 로그아웃, 회원 탈퇴
-<br/><br/><br/>
-## Barrier-Free Kiosk (개인 프로젝트, 진행 중)
-**LSTM, STT, NLP 모델을 활용한 손동작 인식과 음서 처리가 가능한 키오스크**
-<br/><br/>
-### 소개
+<hr>
+
+## 손동작 인식과 음성 처리가 가능한 키오스크 (개인, 진행 중)
+### 🔎 소개 및 목적
  - 디지털 소외계층이 쉽게 사용할 수 있는 키오스크 시스템 개발
-<br/><br/>
-### 개발 기간
-2024. 04. 01 ~ 2024. 10. 31 (예정)
-<br/><br/>
-### 사용 언어 및 개발 환경
+### 🔎 개발 기간
+2024.04.01 ~ 2024. 11. 22 (예정)
+### 🔎 사용 언어 및 개발 환경
 `PyCharm` `Yolo` `Jupyter Notebook` `Anaconda` `MediaPipe` `NumPy` `Matplotlib`
-<br/><br/>
-### 주요 기능
-#### 손동작 실시간 인식
-#### 음성 처리
+### 🔎 주요 기능
+ - **손동작 실시간 인식**
+ - **음성 처리**
