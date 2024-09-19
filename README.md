@@ -142,7 +142,7 @@
 <br/><br/>
 <hr>
 
-## Yolo, MediaPipe, LSTM 모델을 활용한 수어 탐지 웹 서비스 (개인) - [레파지토리 바로가기]()
+## Yolo, MediaPipe, LSTM 모델을 활용한 수어 탐지 웹 서비스 (개인) - [레파지토리 바로가기](https://github.com/Nyoung-Oh/HandSignDetect.)
 <img src="https://github.com/user-attachments/assets/ba3c42a8-c430-46db-bec6-2a348fde3e06"  width="400" height="400">
 <img src="https://github.com/user-attachments/assets/d8f96ac2-34e4-4d66-997c-6c5dbcb4b519"  width="400" height="400">
 
@@ -156,7 +156,7 @@
 ### 🔎 구조
 <img src="https://github.com/user-attachments/assets/d4585cf5-5a25-4d21-820e-92d2f16f611d"  width="800" height="300">
 
-### 🔎 주요 기능 - [레파지토리 바로가기]()
+### 🔎 주요 기능 - [레파지토리 바로가기](https://github.com/Nyoung-Oh/HandSignDetect.)
  - **실시간 웹캠 영상 인식**
  - **수어 탐지 알파벳 및 정확도 표시**
 
