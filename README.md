@@ -1,12 +1,12 @@
 # 안녕하세요. 오은영입니다 👋
 
-> **교내 산학협력단 사무 학생 인턴, 종합소프트웨어회사 단기 계약직, 국내외 행사 업무 지원, 유기견 보호소 봉사활동 등 다양한 분야에서 경험이 있습니다.**
-> 
 > **현재 한국폴리텍대학교 성남캠퍼스에서 인공지능소프트웨어과 하이테크 과정(2024.03 ~ 2024.12)을 이수하고 있습니다.**
 >
-> **약 6개월 동안 크고 작은 프로젝트 5개를 진행했습니다. 현재 인공지능 프로젝트 중입니다.**
+> **약 6개월 동안 크고 작은 프로젝트 5개를 진행했습니다.**
+>
+> **교내 산학협력단 사무 학생 인턴, 종합소프트웨어회사 단기 계약직, 국내외 행사 업무 지원, 유기견 보호소 봉사활동 등 다양한 분야에서 경험이 있습니다.**
 > 
-> **이제까지 쌓은 경험과 IT 기술 지식을 통해 프토젝트 전체를 볼 수 있는 개발자가 되겠습니다.**
+> **IT 기술 지식과 저의 경험을 바탕으로 프토젝트 전체를 보는 개발자가 되겠습니다.**
 >
 > **제가 만든 서비스가 사회가 긍정적인 영향을 끼치는 것이 목표입니다.**
 > 
@@ -18,13 +18,13 @@
 ## ⚡ Project List
 |구분|제목|인원|사용기술|
 |:---:|:---:|:---:|:---:|
-|웹|[은행 서비스](https://github.com/Nyoung-Oh#java%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%80%ED%96%89-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EC%9D%B8---%EB%A0%88%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0)|개인|`Java` `JavaScriprt` `Oracle` `Eclipse` `MyBatis` `JSP`|
-|웹|[은행, 카드, 증권 통합 서비스](https://github.com/Nyoung-Oh#java-dblink%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%9D%80%ED%96%89-%EC%B9%B4%EB%93%9C-%EC%A6%9D%EA%B6%8C-%ED%86%B5%ED%95%A9-%EC%84%9C%EB%B9%84%EC%8A%A4---%EB%A0%88%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0)|3인|`DBLink` `Redis`|
-|인공지능|[수어 탐지](https://github.com/Nyoung-Oh#yolo-mediapipe-lstm-%EB%AA%A8%EB%8D%B8%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%88%98%EC%96%B4-%ED%83%90%EC%A7%80-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EC%9D%B8---%EB%A0%88%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0)|개인|`Yolo` `MediaPipe` `LSTM` `KNN` `Flask` `Spring Boot`|
-|리액트 웹|[클래스형 전기차 충전소 위치 검색](https://github.com/Nyoung-Oh#%ED%81%B4%EB%9E%98%EC%8A%A4%ED%98%95-%EC%A0%84%EA%B8%B0%EC%B0%A8-%EC%B6%A9%EC%A0%84%EC%86%8C-%EC%9C%84%EC%B9%98-%EA%B2%80%EC%83%89%EC%9D%B4-%EA%B0%80%EB%8A%A5%ED%95%9C-react-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EB%B0%8F-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%B0%B0%ED%8F%AC-%EA%B0%9C%EC%9D%B8---%EB%A0%88%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0)|개인|`Node.js` `React` `Docker` `OpenAPI`|
-|웹|[도서 관리](https://github.com/Nyoung-Oh#spring-boot%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8F%84%EC%84%9C-%EA%B4%80%EB%A6%AC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EC%9D%B8---%EB%A0%88%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0)|개인|`Spring Boot`|
-|자바|[이메일 서비스 콘솔 구현](https://github.com/Nyoung-Oh#java-oracledb%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EC%BD%98%EC%86%94-%EA%B5%AC%ED%98%84-%EA%B0%9C%EC%9D%B8---%EB%A0%88%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0)|개인|`Java` `OracleDB`|
-|인공지능|[손동작 인식과 음성 처리 Kiosk](https://github.com/Nyoung-Oh#%EC%86%90%EB%8F%99%EC%9E%91-%EC%9D%B8%EC%8B%9D%EA%B3%BC-%EC%9D%8C%EC%84%B1-%EC%B2%98%EB%A6%AC%EA%B0%80-%EA%B0%80%EB%8A%A5%ED%95%9C-%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC-%EA%B0%9C%EC%9D%B8-%EC%A7%84%ED%96%89-%EC%A4%91) (진행 중)|개인|`LSTM` `STT` `NLP`|
+|웹|[은행 서비스](https://github.com/Nyoung-Oh/Banking)|개인|`Java` `JavaScriprt` `Oracle` `Eclipse` `MyBatis` `JSP`|
+|웹|[은행, 카드, 증권 통합 서비스](https://github.com/Nyoung-Oh/KomFinance)|3인|`DBLink` `Redis`|
+|인공지능|[수어 탐지](https://github.com/Nyoung-Oh/HandSignDetect.)|개인|`Yolo` `MediaPipe` `LSTM` `KNN` `Flask REST Server` `Spring Boot Java Web`|
+|리액트 웹|[클래스형 전기차 충전소 위치 검색](https://github.com/Nyoung-Oh/react-basic)|개인|`Node.js` `React` `Docker` `OpenAPI`|
+|웹|[도서 관리](https://github.com/Nyoung-Oh/Library)|개인|`Spring Boot`|
+|자바|[이메일 서비스 콘솔 구현](https://github.com/Nyoung-Oh/MyEmail)|개인|`Java` `OracleDB`|
+|인공지능|손동작 인식과 음성 처리 Kiosk (진행 중)|개인|`LSTM` `STT` `NLP`|
 <br/>
 
 ## 🌱What I've learning...🌱
@@ -33,6 +33,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### Database
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ### Framework / Library
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-6DB33F?style=flat&logo=&logoColor=white)
@@ -43,6 +46,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapi&logoColor=white)
 ![Mybatis](https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white)
 ### AI
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -51,12 +55,10 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
 ![Yolo](https://img.shields.io/badge/Yolo-BB464B?style=flat&logo=Yolo&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-EC9430?style=flat&logo=MediaPipe&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E?style=flat&logo=Scikit-learn&logoColor=white)
-### Database
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-### Server
+### Infra
+![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=flat&logo=Amazon&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/apachetomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white)
 ### Tool
@@ -66,8 +68,6 @@
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-000000?style=flat&logo=Visual_Studio&logoColor=white)
 ![JupyterNotebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=Jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-### Environment
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white)
 ### Communication
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white)
@@ -152,7 +152,7 @@
 ### 🔎 개발 기간
 2024.07.15 ~ 2024.07.26
 ### 🔎 사용 언어 및 개발 환경
-`Spring Boot` `JavaScript` `Python` `JSON` `Thyemeleaf` `Servlet` `Eclipse` `PyCharm` `VSCode` `REST Server` `Yolo` `Anaconda` `Jupyter Notebook` `MediaPipe` `Pandas` `KNN` `Numpy` `Tensorflow` `Keras` `Flask`
+`Spring Boot Java Web` `JavaScript` `Python` `JSON` `Thyemeleaf` `Servlet` `Eclipse` `PyCharm` `VSCode` `Flask REST Server` `Yolo` `Anaconda` `Jupyter Notebook` `MediaPipe` `Pandas` `KNN` `Numpy` `Tensorflow` `Keras`
 ### 🔎 구조
 <img src="https://github.com/user-attachments/assets/d4585cf5-5a25-4d21-820e-92d2f16f611d"  width="800" height="300">
 
