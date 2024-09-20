@@ -201,6 +201,9 @@
 2024.04.18 ~ 2024.04.25
 ### 🔎 사용 언어 및 개발 환경
 `Java` `Eclipse` `OracleDB`
+### 🔎 시퀀스 다이어그램
+<img src="https://github.com/user-attachments/assets/560d04bb-1a01-4d72-8850-c8b02551afe3"  width="1700" height="950">
+
 ### 🔎 주요 기능 - [레파지토리 바로가기](https://github.com/Nyoung-Oh/MyEmail)
 - **이메일 : 전송, 조회, 받은/보낸 메일함, 삭제**
 - **사용자 관리 : 회원가입, 로그인, 로그아웃, 회원 탈퇴**
