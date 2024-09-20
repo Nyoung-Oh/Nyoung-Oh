@@ -152,7 +152,7 @@
 ### 🔎 개발 기간
 2024.07.15 ~ 2024.07.26
 ### 🔎 사용 언어 및 개발 환경
-`Spring Boot` `JavaScript` `Python` `JSON` `Thyemeleaf` `Servlet``Eclipse` `PyCharm` `VSCode` `REST Server` `Yolo` `Anaconda` `Jupyter Notebook` `MediaPipe` `Pandas` `KNN` `Numpy` `Tensorflow` `Keras` `Flask`
+`Spring Boot` `JavaScript` `Python` `JSON` `Thyemeleaf` `Servlet` `Eclipse` `PyCharm` `VSCode` `REST Server` `Yolo` `Anaconda` `Jupyter Notebook` `MediaPipe` `Pandas` `KNN` `Numpy` `Tensorflow` `Keras` `Flask`
 ### 🔎 구조
 <img src="https://github.com/user-attachments/assets/d4585cf5-5a25-4d21-820e-92d2f16f611d"  width="800" height="300">
 
